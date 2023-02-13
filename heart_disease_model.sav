@@ -1,0 +1,19 @@
+€csklearn.linear_model._logistic
+LogisticRegression
+q )q}q(X    penaltyqX   l2qX   dualq‰X   tolqG?6âëC-X   Cq G?ğ      X
+   fit_interceptqˆX   intercept_scalingq	KX   class_weightq
+NX   random_stateq
+NX   solverqX   lbfgsq
+X   max_iterqKdX
+   multi_classqX   autoqX    verboseqK X
+   warm_startq‰X   n_jobsqNX   l1_ratioqNX   feature_names_in_qcnumpy.core.multiarray
+_reconstruct
+qcnumpy
+ndarray
+qK …qCbq‡qRq(KK
+…qcnumpy
+dtype
+qX   O8q‰ˆ‡qRq (KX   |q!NNNJÿÿÿÿJÿÿÿÿK?tq"b‰]q#(X   ageq$X   sexq%X   cpq&X   trestbpsq'X   cholq(X   fbsq)X    restecgq*X    thalachq+X   exangq,X    oldpeakq-X   slopeq.X   caq/X   thalq0etq1bX   n_features_in_q2K
+X   classes_q3hhK …q4h‡q5Rq6(KK…q7hX   i8q8‰ˆ‡q9Rq:(KX   <q;NNNJÿÿÿÿJÿÿÿÿK tq<b‰C               q=tq>bX    n_iter_q?hhK …q@h‡qARqB(KK…qChX   i4qD‰ˆ‡qERqF(Kh;NNNJÿÿÿÿJÿÿÿÿK tqGb‰Cd   qHtqIbX   coef_qJhhK …qKh‡qLRqM(KKK
+†qNhX   f8qO‰ˆ‡qPRqQ(Kh;NNNJÿÿÿÿJÿÿÿÿK tqRb‰ChgML³†åƒ?xNÒ~®ô¿"Ü&Qsì?&q3ş©¼ˆ¿7>(E&e¿Ç¦Á-Cû²¿§ÃY[~â?»ÇË{l¡?±Û|²âì¿rgÓäÀ}ß¿›ñÀÔÏ?¨D·Ngé¿ó7ßò¿qStqTbX
+   intercept_qUhhK …qVh‡qWRqX(KK…qYhQ‰C€˜#š1Í¿qZtq[bX   _sklearn_versionq\X   1.0.2q]ub.
